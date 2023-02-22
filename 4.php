@@ -1,10 +1,8 @@
 <?php
 echo ("<P>");
-echo ("name= Ivan");
-//echo $_GET["name"];
+echo $_GET["name"];
 echo ("<P>");
-echo ("email=Ivan@123.com");
-//echo $_GET["email"];
+echo $_GET["email"];
 ?>
 <P>
 <form action=3.php method="get">
